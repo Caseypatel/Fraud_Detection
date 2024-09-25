@@ -17,7 +17,8 @@ The e-commerce company, "OnlineMart," is facing a significant challenge in detec
 ## Project Evaluation
 ### Final Model Accuracy:
 
-98% for classifying Employee Churn.
+98% for predicting fraud detection
 ### Final Model Recall:
 
-93% of the time the model will correctly predict the employees who will leave.
+86% of the time the model will correctly predict fraudulent transactions.
+
